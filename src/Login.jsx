@@ -1,9 +1,6 @@
 import React, { useState } from "react";
 import "react-netlify-identity-widget/styles.css";
-import {
-  useIdentityContext,
-  IdentityContextProvider
-} from "react-netlify-identity-widget";
+import { useIdentityContext } from "react-netlify-identity-widget";
 
 // code split the modal til you need it!
 const IdentityModal = React.lazy(() => import("react-netlify-identity-widget"));

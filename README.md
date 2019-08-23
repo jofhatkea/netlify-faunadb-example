@@ -7,6 +7,7 @@ https://app.netlify.com/sites/admiring-shannon-4243e8/identity
 https://github.com/jofhatkea/netlify-faunadb-example
 https://dev.to/swyx/add-netlify-identity-authentication-to-any-react-app-in-5-minutes-with-react-context-hooks-and-suspense-5gci
 https://github.com/sw-yx/react-netlify-identity-widget
+https://github.com/fauna/netlify-faunadb-todomvc // tror den er død
 
 Example of using [FaunaDB](https://fauna.com/) with [Netlify functions](https://www.netlify.com/docs/functions/)
 

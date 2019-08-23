@@ -1,8 +1,6 @@
 import React, { useEffect, useState } from "react";
-import {
-  useIdentityContext,
-  IdentityContextProvider
-} from "react-netlify-identity-widget";
+import { IdentityContextProvider } from "react-netlify-identity-widget";
+import netlifyIdentity from "react-netlify-identity-widget";
 import "react-netlify-identity-widget/styles.css";
 
 import api from "./utils/api";
